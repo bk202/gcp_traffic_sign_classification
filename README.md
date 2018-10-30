@@ -6,5 +6,7 @@
 
 3.Training data is not uploaded, but can be downloaded and pre-processed following Alex's tutorial, or ask the author of this repository for training data.
 
+5.Hyperparameters are defined in task.py, edit this file to configure hyperparameters.
+
 4.Run task.py to start training model, model will be loaded automatically everytime before training starts if a saved model exists, otherwise model will be trained from scratch.
 
